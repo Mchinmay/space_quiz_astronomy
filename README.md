@@ -1,2 +1,2 @@
 # space_quiz_astronomy
-space fun quiz test
+A quiz made on space facts. Created this CLI project when inspired after chandrayaan-3 launch. 
